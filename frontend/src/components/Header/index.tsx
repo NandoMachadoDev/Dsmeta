@@ -1,8 +1,8 @@
-import logo from '../../assets/img/logo.svg';
+import logo from '../../assets/img/logo.svg'
 
 import './styles.css';
 
-function Header() {
+function Header(): JSX.Element {
     return (
         <>
             <header>
